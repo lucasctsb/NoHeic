@@ -19,29 +19,10 @@ The `.heic` format, common on modern iPhones, is not natively supported on all v
 
 ---
 
-## 🚀 How to Use (for End-Users)
+## 🚀 How to Use
 
 1.  Go to the [**Releases**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page of this repository.
-2.  Download the latest `HEIC_Converter.exe` file.
+2.  Download the latest `NoHEIC.exe` file.
 3.  Double-click the `.exe` file to run it. No installation is needed!
 4.  Use the "Browse..." buttons to select your source and destination folders.
 5.  Click "Convert" and wait for the process to complete.
-
----
-
-## 🛠️ How to Run from Source (for Developers)
-
-If you want to run the script directly or modify it, follow these steps.
-
-### Prerequisites
-
--   Python 3.7+
--   `pip` (Python package installer)
-
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-cd YOUR_REPOSITORY
-
-### 1. Clone the Repository
