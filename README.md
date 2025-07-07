@@ -5,9 +5,6 @@
 
 A simple, user-friendly desktop application for Windows to batch convert `.heic` image files to the `.tiff` format.
 
-![App Screenshot](https://placehold.co/600x400/2d3748/ffffff?text=App+Screenshot+Here)
-*Replace the image above with a screenshot of your application.*
-
 ## 🌟 Features
 
 -   **Easy-to-Use GUI:** A clean graphical interface for selecting folders.
@@ -47,3 +44,4 @@ If you want to run the script directly or modify it, follow these steps.
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
 cd YOUR_REPOSITORY
 
+### 1. Clone the Repository
